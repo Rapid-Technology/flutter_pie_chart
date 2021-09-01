@@ -1,4 +1,4 @@
-# flutter_pie_chart
+# Flutter Pie Chart
 
 A new Flutter project.
 
