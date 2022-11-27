@@ -1,6 +1,6 @@
 # Flutter Pie Chart
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/pR1SEGLSyxg/maxresdefault.jpg)](https://www.youtube.com/watch?v=pR1SEGLSyxg)
 
 ## Getting Started
 
